@@ -14,7 +14,9 @@ The AI-Powered Calorie Analyzer is an innovative application that uses cutting-e
 Automatically identifies food items in an uploaded image and extracts key nutritional data, such as:
 
 • Food item names
+
 • Calorie counts for each item
+
 • Total calorie count
 
 
@@ -23,6 +25,7 @@ Automatically identifies food items in an uploaded image and extracts key nutrit
 Answers specific questions about the meal, such as:
 
 • “How many calories are in this dish?”
+
 • “Is this meal healthy or unhealthy?”
 
 
